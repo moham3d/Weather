@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "284975247537",
+    "firebase_url": "https://egyptweather-fce95.firebaseio.com",
+    "project_id": "egyptweather-fce95",
+    "storage_bucket": "egyptweather-fce95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284975247537:android:8e9a8b2952aab4656af290",
+        "android_client_info": {
+          "package_name": "com.eg.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284975247537-jgtf74m5m3htkdeli9v16bmr7tgrsb8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eg.weather",
+            "certificate_hash": "15cdce5a37e0871e2c8b0900a1befeb2a029f358"
+          }
+        },
+        {
+          "client_id": "284975247537-lqcu0iof77lu76iiee7olrsq6ccvium0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eg.weather",
+            "certificate_hash": "fe9e2fa42b72aaea82a5a14d1b8978eef1d5a6a4"
+          }
+        },
+        {
+          "client_id": "284975247537-1ad5a56isvpb2atpamt3sl33b1u9o4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD050t6jzREP5fFfGCKyum-YtJQLJ-9mZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284975247537-1ad5a56isvpb2atpamt3sl33b1u9o4ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9302873626860398~2142073684"
+    }
+  ],
+  "configuration_version": "1"
+}
